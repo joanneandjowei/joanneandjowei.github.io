@@ -1,3 +1,6 @@
+function WebsiteHash(page) {
+	location.href = page + ".html"
+}
 function inDesktopMode(){
 	if($("#sidebar").width() == 211){
 		
