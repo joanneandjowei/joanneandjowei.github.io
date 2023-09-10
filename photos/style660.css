@@ -1,0 +1,49 @@
+.body {
+	font-family: Georgia,palatino;
+	font-size: 15px;
+	color: #010101;
+}
+.subhead {
+	font-family: Georgia,palatino;
+	font-size: 17px;
+	color: #ffffff;
+	text-decoration: none;
+	font-style: italic;
+}
+.head {
+	font-family: Georgia,palatino;
+	font-size: 18px;
+	color: #101010;
+	text-decoration: none;
+	font-weight: bold;
+}
+.countdown {
+	font-family: Georgia,palatino;
+	font-size: 16px;
+	color: #ffffff;
+	font-style: italic;
+}
+.warning {
+	font-family: Cabin;
+	font-size: 18px;
+	color: #ce5c5c;
+}
+.Body {
+	font-family: Georgia,palatino;
+	font-size: 15px;
+	color: #010101;
+}
+.Subhead {
+	font-family: Georgia,palatino;
+	font-size: 17px;
+	color: #ffffff;
+	text-decoration: none;
+	font-style: italic;
+}
+.Head {
+	font-family: Georgia,palatino;
+	font-size: 18px;
+	color: #101010;
+	text-decoration: none;
+	font-weight: bold;
+}

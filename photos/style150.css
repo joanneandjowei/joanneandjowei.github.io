@@ -1,0 +1,51 @@
+.body {
+	font-family: Georgia,palatino;
+	font-size: 15px;
+	color: #000000;
+}
+.subhead {
+	font-family: Georgia,palatino;
+	font-size: 16px;
+	color: #ff009d;
+	text-decoration: none;
+	font-style: italic;
+	font-weight: bold;
+}
+.head {
+	font-family: Georgia,palatino;
+	font-size: 18px;
+	color: #100309;
+	text-decoration: none;
+	font-weight: bold;
+}
+.countdown {
+	font-family: Alex Brush;
+	font-size: 30px;
+	color: #101010;
+	font-weight: bold;
+}
+.warning {
+	font-family: Cabin;
+	font-size: 18px;
+	color: #ce5c5c;
+}
+.Body {
+	font-family: Georgia,palatino;
+	font-size: 15px;
+	color: #000000;
+}
+.Subhead {
+	font-family: Georgia,palatino;
+	font-size: 16px;
+	color: #ff009d;
+	text-decoration: none;
+	font-style: italic;
+	font-weight: bold;
+}
+.Head {
+	font-family: Georgia,palatino;
+	font-size: 18px;
+	color: #100309;
+	text-decoration: none;
+	font-weight: bold;
+}

@@ -1,0 +1,48 @@
+.body {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #010101;
+}
+.subhead {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #ffffff;
+	text-decoration: none;
+	font-style: italic;
+}
+.head {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #101010;
+	text-decoration: none;
+	font-weight: bold;
+}
+.countdown {
+	font-family: Cabin Sketch;
+	font-size: 14px;
+	color: #ffffff;
+}
+.warning {
+	font-family: Cabin;
+	font-size: 18px;
+	color: #ce5c5c;
+}
+.Body {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #010101;
+}
+.Subhead {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #ffffff;
+	text-decoration: none;
+	font-style: italic;
+}
+.Head {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #101010;
+	text-decoration: none;
+	font-weight: bold;
+}

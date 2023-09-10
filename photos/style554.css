@@ -1,0 +1,46 @@
+.body {
+	font-family: Georgia,palatino;
+	font-size: 15px;
+	color: #170c0c;
+}
+.subhead {
+	font-family: Autour One;
+	font-size: 17px;
+	color: #ffffff;
+	text-decoration: none;
+}
+.head {
+	font-family: Georgia,palatino;
+	font-size: 20px;
+	color: #ff00aa;
+	text-decoration: none;
+	font-weight: bold;
+}
+.countdown {
+	font-family: Cabin Sketch;
+	font-size: 14px;
+	color: #ffffff;
+}
+.warning {
+	font-family: Cabin;
+	font-size: 18px;
+	color: #ce5c5c;
+}
+.Body {
+	font-family: Georgia,palatino;
+	font-size: 15px;
+	color: #170c0c;
+}
+.Subhead {
+	font-family: Autour One;
+	font-size: 17px;
+	color: #ffffff;
+	text-decoration: none;
+}
+.Head {
+	font-family: Georgia,palatino;
+	font-size: 20px;
+	color: #ff00aa;
+	text-decoration: none;
+	font-weight: bold;
+}

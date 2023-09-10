@@ -1,0 +1,334 @@
+.body {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #333333;
+}
+.bodynounderline {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #333333;
+	text-decoration: none;
+}
+.bodysmall {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 13px;
+	color: #FFFFFF;
+}
+.verysmallbody {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 15px;
+	color: #333333;
+}
+.bodybold {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: bold;
+	text-decoration: none;
+	color: #415E77;
+}
+.smallbold {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #525151;
+	font-weight: bold;
+}
+.smallbolddark {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #333333;
+	font-weight: bold;
+}
+.bodyorange {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #415E77;
+	text-decoration: none;
+}
+.bodysandals {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #545E7A;
+	text-decoration: none;
+}
+h1 {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #415E77;
+}
+.warning {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #990000;
+	text-decoration: none;
+}
+.taglineattop {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.topbarnav {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #415E77;
+	text-decoration: none;
+}
+.spacerdots {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #705e51;
+}
+.spacerdotswhite {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.bullets {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	line-height: 17.5px;
+}
+.bulletdots {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #415E77;
+}
+.testimonialhome {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+.couplename {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #415E77;
+}
+.featuredin {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+	font-weight: normal;
+}
+.featuredinbold {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.quickreference {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	line-height: 12px;
+	text-decoration: none;
+}
+.boldreference {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.unsubscribeboldreference {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+}
+.unsubscribebody {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: #333333;
+}
+.boldgrey {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #333333;
+}
+.middlenav {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+}
+.btmnav {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #415E77;
+	text-decoration: none;
+}
+.instructions {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	line-height: 16px;
+}
+.instructionssmall {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+}
+.select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #000000;
+	background-color:#FFFFFF;
+}
+.selectsmall {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	color: #000000;
+	background-color:#FFFFFF;
+}
+.webpages {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+.article {
+	color: #415E77;
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	text-decoration: none;
+}
+.testimonialtext {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #b09b8b;
+}
+.couplenames {
+	color: #415E77;
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 15px;
+}
+.relatedlinks {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #333333;
+	text-decoration: none;
+}
+.designoptionsbody {
+	font-family: "Century Gothic",Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 15px;
+	color: #333333;
+}
+.designoptionshead {
+	font-family: "Century Gothic",Arial, Helvetica, sans-serif;
+	font-size: 13.5px;
+	font-weight: bold;
+	color: #797E64;
+}
+.questions {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 15px;
+	color: #415E77;
+	font-weight: normal;
+}
+.questionsital {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: italic;
+	color: #333333;
+}
+.bodysmallblk {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	line-height: 14px;
+}
+.bodyblkbod {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 15px;
+}
+.sitewizardsignuptext {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #333333;
+}
+.optionhead {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #A54045;
+}
+.einviteitem {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.wwbloghead {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #5289B7;
+	font-weight: bold;
+	text-decoration: none;
+}
+.wwblogsubhead {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #5289B7;
+	text-decoration: none;
+}
+.wwblogform {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	text-decoration: none;
+}
+.pictagearticle {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	text-decoration: none;
+}
+.pictagesource {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #547794;
+	font-weight: bold;
+	text-decoration: none;
+}
+.shopheader {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #4F3A2A;
+	font-weight: bold;
+	text-decoration: none;
+}
+.bestsellertitle {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #4B392A;
+	font-weight: bold;
+	text-decoration: none;
+}
+.bestsellertext {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+}
+.bestsellerstore {
+	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #5A7F9F;
+	text-decoration: none;
+}
